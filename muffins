@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Blueberry Muffin</title>
+  </head>
+  <body>
+    <h1>Blueberry Muffin</h1>
+    <img src="https://harvestright.com/wp-content/uploads/2020/07/Blueberry-Muffin-1024x1024.jpg" alt="Muffin image">
+    <h2>Vanilla Muffin with delicious blueberries</h2>
+    <p>This is our mouth-watering Blueberry Muffins. Made with french vanilla muffin mix, golden eggs, almond milk</p>
+  <h3>Ingredients</h3>
+  <ul>
+    <li>Muufin Mix</li>
+    <li>Eggs</li>
+    <li>Milk</li>
+    <li>Vanilla Extract</li>
+    <li>Cinnamon</li>
+  </ul>
+  <h4>Cooking Steps</h4>
+  <ol>
+    <li>Pre-heat oven 350 degrees. Mix all wet ingredients in a bowl&then add cinnamon.</li>
+    <li>Pour into muffin cups.</li>
+    <li>Insert into oven.</li>
+    <li>Cook for 12-15 mintues. Let pan cool, Enjoy! </li>
+  </ol>
+</body>
+  </html>
