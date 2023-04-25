@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pizza</title>
+  </head>
+  <body>
+    <h1>Pizza</h1>
+    <img src="https://th.bing.com/th/id/OIP.E7U3mlpzrqVLLHMEb1uqigHaE8?pid=ImgDet&rs=1" alt="Pizza image">
+    <h2>Pepperoni Pizza</h2>
+    <p>This is our world famous pepperoni pizza. Made with our own aged tomato sauce, freshly shredded mozzerella cheese, and our delicious man-cut pepperoni</p>
+  <h3>Ingredients</h3>
+  <ul>
+    <li>Tomatoes</li>
+    <li>Mozzerella</li>
+    <li>Pepperoni</li>
+    <li>Itailian Seasoning</li>
+    <li>Homemade pizza crust</li>
+  </ul>
+  <h4>Cooking Steps</h4>
+  <ol>
+    <li>1.Pre-heat oven to 450 degrees.</li>
+    <li>2.Spread your tomato sauce across the whole pizza in small circles.</li>
+    <li>3.As you are spreading your sauce, lightly season your sauce with italian seasoning.</li>
+    <li>4.Now sprinkle your mozzerella cheese overtop the sauce you just placed down.</li>
+    <li>5.Place an even amount of pepperoni slices on each half.</li>
+    <li>6.Final step, oil or butter the edges of the pizza crust and place the pizza into the oven for 8-10 minutes.</li>
+    <li>Take Out Carefully.</li>
+    <li>Enjoy!</li>
+  </ol>
+</body>
+  </html>
